@@ -1,0 +1,30 @@
+{
+  "name": "jm-angular-img-cropper",
+  "version": "1.0.0",
+  "homepage": "http://https://github.com/jm-root/jm-angular-img-cropper",
+  "authors": [
+    "Jeff Yu<2651339@qq.com>"
+  ],
+  "description": "Client side image cropper directive for AngularJS (rectangular area, aspect ratio, multi-touch)",
+  "main": "dist/angular-img-cropper.min.js",
+  "keywords": [
+    "angular",
+    "cropper",
+    "image",
+	"img",
+    "rectangle",
+	"aspect",
+    "crop"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "node_modules",
+    "src",
+    "test",
+	"package.json",
+	"gruntfile.js",
+	".git",
+	".idea",
+	".txt"
+  ]
+}
